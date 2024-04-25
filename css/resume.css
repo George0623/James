@@ -1,0 +1,64 @@
+#james{
+	background-color: #f0f0f0;
+	margin: 0 15%;
+}
+
+h1{
+	height: 4.375rem;
+	color: white;
+	background-color:cornflowerblue;
+	line-height: 4.375rem;
+	text-indent: 4.375rem;
+}
+
+#nav{
+	text-align: center;
+}
+
+#nav li{
+	display: inline-block;
+	width: 6.25rem;
+	height: 1.875rem;
+	background-color:cornflowerblue ;
+	line-height: 1.875rem;
+	border: 1px solid cornflowerblue;
+	border-radius:0 0.625rem ;	
+	
+}
+
+	
+#nav li a{
+	text-decoration: none;
+	color: white;
+}
+
+#nav li a:hover{
+	font-weight: bold;
+}
+
+.picture{
+	text-align: center;
+}
+.margin{
+	margin: 0 1.875rem;
+}
+#userinfo p{
+	text-indent: 1.875rem;
+}
+#record a{
+	text-decoration: none;
+	color: black;
+}
+textarea{
+	width: 100%;
+	height: 100px;
+}
+
+#core{
+	background-color:cornflowerblue ;
+	text-align: center;
+	color: white;
+	height: 4.375rem;
+	line-height: 4.375rem;
+	font-size: 0.75rem;
+}
